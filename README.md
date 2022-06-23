@@ -1,4 +1,4 @@
-# Crawler for the OPAC catalog of lib.bonn.de
+# Crawler for the OPAC of lib.bonn.de
 
 ## Installation
 
